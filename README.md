@@ -3,6 +3,6 @@
 # Line Chart
   歷年男女出生人數
   
-# Histogram
+# Bar Chart
 # Radar Chart
 # Pie Chart
